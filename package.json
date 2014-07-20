@@ -1,0 +1,30 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "This example app is so cool by Mai.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watcha2522/node-example.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "watcha2522",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watcha2522/node-example/issues"
+  },
+  "homepage": "https://github.com/watcha2522/node-example",
+  "dependencies": {
+    "express": "^4.6.1",
+    "logfmt": "^1.1.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
